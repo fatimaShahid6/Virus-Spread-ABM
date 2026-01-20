@@ -57,7 +57,7 @@ This project is designed as an **educational and experimental platform**, not a 
 
 ## Developed By
 
-Computer Science Students
+Computer Science Students at
 University of Engineering and Technology, Lahore
 
 ## License
