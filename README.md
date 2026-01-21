@@ -59,8 +59,8 @@ This project is designed as an **educational and experimental platform**, not a 
 
 Computer Science Students at
 University of Engineering and Technology, Lahore
-- Rushba Irshad — [GitHub](https://github.com/fatimaShahid6)  
-- Fatima Shahid — [GitHub](https://github.com/rushba1911)
+- Rushba Irshad — [GitHub](https://github.com/rushba1911)  
+- Fatima Shahid — [GitHub](https://github.com/fatimaShahid6)
 
 
 ## License
